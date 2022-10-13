@@ -1,4 +1,4 @@
-package com.dmm.weathercompose
+package com.dmm.weathercompose.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
