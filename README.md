@@ -1,7 +1,9 @@
-<h1 align="center" > Weather-Compose </h1>
+<h1 align="center" >
+Weather-Compose
+<h4 align="center" >My First steps with Jetpack Compose</h4>
+</h1>
 
 <p align="center">
-<h3 align="center" >My First steps with Jetpack Compose</h3>
 Weather-Compose it's a modern Android development with Hilt, Coroutines, Jetpack (ViewModel), based on MVVM architecture.
 </p>
 </br>
